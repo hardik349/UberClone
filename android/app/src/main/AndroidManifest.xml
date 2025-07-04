@@ -17,11 +17,7 @@
 
         <uses-library
             android:name="org.apache.http.legacy"
-            android:required="false" />
-
-        <meta-data
-            android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyD3FbslZFCti8Gub5tSiw2WnqSvkRR2Jq8" />
+            " />
         <activity
             android:name=".MainActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
